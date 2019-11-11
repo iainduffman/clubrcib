@@ -1,0 +1,34 @@
+{"event":"details","time":1569494112,"u":"83","run":"0.21","mem":"41.06","data":"----- Initiating master send function for BackupBuddy v7.3.0.8 for basename file: `remote-send-test.php`. Post-send deletion: "}
+{"event":"details","time":1569494112,"u":"83","run":"0.21","mem":"41.12","data":"Created fileoptions lock file `send-TEST-hm9v4i2xojsy.txt.lock` with ID: 5d8c8650cc60d8.96593452."}
+{"event":"details","time":1569494112,"u":"83","run":"0.21","mem":"41.12","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1569494112,"u":"83","run":"0.21","mem":"41.13","data":"Fileoptions `send-TEST-hm9v4i2xojsy.txt` saved. 1164 bytes written."}
+{"event":"details","time":1569494112,"u":"83","run":"0.22","mem":"41.12","data":"Initializing destination."}
+{"event":"details","time":1569494112,"u":"83","run":"0.22","mem":"41.12","data":"Loading destination init file `\/home\/eurorescue\/dev.eurorescue.co.uk\/wp-content\/plugins\/backupbuddy\/destinations\/ftp\/init.php`."}
+{"event":"details","time":1569494112,"u":"83","run":"0.22","mem":"41.12","data":"Destination init loaded."}
+{"event":"details","time":1569494112,"u":"83","run":"0.22","mem":"41.12","data":"Initialized `ftp` destination."}
+{"event":"details","time":1569494112,"u":"83","run":"0.22","mem":"41.12","data":"Applying destination-specific defaults."}
+{"event":"details","time":1569494112,"u":"83","run":"0.22","mem":"41.12","data":"Applying global destination defaults."}
+{"event":"details","time":1569494112,"u":"83","run":"0.22","mem":"41.12","data":"Calling destination-specific send method."}
+{"event":"details","time":1569494112,"u":"83","run":"0.22","mem":"41.12","data":"FTP class send() function started."}
+{"event":"details","time":1569494113,"u":"08","run":"0.46","mem":"41.13","data":"Connected to FTP."}
+{"event":"details","time":1569494113,"u":"35","run":"0.74","mem":"41.13","data":"Logged in. Sending backup via FTP\/FTPs ..."}
+{"event":"details","time":1569494113,"u":"36","run":"0.74","mem":"41.13","data":"Passive FTP mode based on settings."}
+{"event":"details","time":1569494113,"u":"60","run":"0.98","mem":"41.13","data":"Entering FTP directory `\/public_html\/eurorescue`."}
+{"event":"details","time":1569494113,"u":"72","run":"1.10","mem":"41.13","data":"About to put to FTP local file `\/home\/eurorescue\/dev.eurorescue.co.uk\/wp-content\/plugins\/backupbuddy\/destinations\/remote-send-test.php` of size `118 Bytes` to remote file `remote-send-test.php`."}
+{"event":"details","time":1569494114,"u":"21","run":"1.59","mem":"41.13","data":"Success completely sending `remote-send-test.php` to destination."}
+{"event":"details","time":1569494114,"u":"21","run":"1.59","mem":"41.13","data":"No FTP file limit to enforce."}
+{"event":"details","time":1569494114,"u":"21","run":"1.59","mem":"41.13","data":"About to load fileoptions data."}
+{"event":"details","time":1569494114,"u":"21","run":"1.59","mem":"41.13","data":"Fileoptions instance #13."}
+{"event":"details","time":1569494114,"u":"21","run":"1.59","mem":"41.14","data":"Created fileoptions lock file `send-TEST-hm9v4i2xojsy.txt.lock` with ID: 5d8c8652343fe4.04492906."}
+{"event":"details","time":1569494114,"u":"21","run":"1.59","mem":"41.14","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1569494114,"u":"21","run":"1.59","mem":"41.14","data":"Fileoptions data loaded."}
+{"event":"details","time":1569494114,"u":"21","run":"1.59","mem":"41.14","data":"Fileoptions `send-TEST-hm9v4i2xojsy.txt` saved. 1228 bytes written."}
+{"event":"details","time":1569494114,"u":"33","run":"1.71","mem":"41.12","data":"Completed send function. Success."}
+{"event":"details","time":1569494114,"u":"33","run":"1.71","mem":"41.12","data":"About to load fileoptions data."}
+{"event":"details","time":1569494114,"u":"33","run":"1.71","mem":"41.12","data":"Fileoptions instance #16."}
+{"event":"details","time":1569494114,"u":"33","run":"1.72","mem":"41.12","data":"Created fileoptions lock file `send-TEST-hm9v4i2xojsy.txt.lock` with ID: 5d8c8652528211.42693483."}
+{"event":"details","time":1569494114,"u":"33","run":"1.72","mem":"41.13","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1569494114,"u":"33","run":"1.72","mem":"41.13","data":"Fileoptions data loaded."}
+{"event":"details","time":1569494114,"u":"33","run":"1.72","mem":"41.12","data":"Post-send deletion not enabled."}
+{"event":"details","time":1569494114,"u":"33","run":"1.72","mem":"41.12","data":"Finished sending email NOT enabled. Skipping."}
+{"event":"details","time":1569494114,"u":"34","run":"1.72","mem":"41.11","data":"Ending send() function pass."}
