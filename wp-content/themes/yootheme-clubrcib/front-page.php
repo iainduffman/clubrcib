@@ -154,7 +154,7 @@ if( have_rows('sections') ):
         // Call - Number
         elseif( get_row_layout() == 'call_us' ): 
         
-        $tiles = get_template_part( 'https://github.com/iainduffman/clubrcib/blob/master/wp-content/themes/yootheme-clubrcib/components/call-us/call-us.php', 'index' );
+        $tiles = get_template_part( 'components/call-us/call-us', 'index' );
         
         echo ''.$tiles.'';
         

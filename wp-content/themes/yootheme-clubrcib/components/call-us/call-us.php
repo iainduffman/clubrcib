@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri();?>/components/call-us/call-us.css" type="text/css" media="screen" />
 
 <!-- Structure -->
-<div class="does-it-show call-us uk-section uk-section-primary tm-section-primary uk-section-xlarge" style="background: #272727;">
+<div class="call-us uk-section uk-section-primary tm-section-primary uk-section-xlarge" style="background: #272727;">
 <div class="uk-container uk-text-center">
 <div class="uk-grid-collapse uk-child-width-expand@s uk-text-center" uk-grid>
 <div>
