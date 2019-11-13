@@ -1,0 +1,45 @@
+/* Footer styles */
+
+.footer .menu-item-has-children {
+    font-size: 1.4em;
+}
+
+.footer-links {
+    width: 100%;
+}
+
+.footer-links .uk-nav {
+    display: flex;
+}
+
+.footer-nav ul {
+    margin-top: 0px;
+    list-style: none;
+    font-size: 0.8em;
+    padding-left: 0px;
+}
+
+
+.footer-links ul li {
+    float: left;
+}
+
+.footer-links ul li a {
+    text-transform: none !important;
+    letter-spacing: 0px !important;
+}
+
+.footer-nav ul li {
+    text-align: left;
+    list-style-type: none;
+    float: left;
+    flex: 1;
+}
+
+ul.uk-nav-sub li {
+    float: none !important;
+}
+
+.footer-links .join-now-cta {
+    display: none;
+}
